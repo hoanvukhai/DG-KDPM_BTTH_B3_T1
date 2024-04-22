@@ -13,14 +13,6 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author ACER
  */
 public class Mavenproject1Test {
-    
-//    @Test
-//    public void testIsEven() {
-//        assertTrue(Mavenproject1.isEven(2), "2 is even");
-//        assertFalse(Mavenproject1.isEven(3), "3 is not even");
-//        assertTrue(Mavenproject1.isEven(0), "0 is even");
-//        assertFalse(Mavenproject1.isEven(1), "1 is not even");
-//    }
 	private Mavenproject1 createTestSubject() {
 		return new Mavenproject1();
 	}    
