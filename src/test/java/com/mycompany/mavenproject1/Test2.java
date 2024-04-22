@@ -25,6 +25,4 @@ public class Test2 {
         assertEquals(12, mavenProject.sum(6));
         assertEquals(12, mavenProject.sum(7));
 	}        
-
- 
 }
